@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ichenzhifan/create-react-redux-app-cli.git"
+    "url": "git@github.com:webChen725/create-vue3-cli.git"
   },
   "devDependencies": {
     "chalk": "^4.1.0",
